@@ -98,7 +98,3 @@ This command creates a `build` folder in your project directory with all the sta
    - **Build command**: `npm run build`
    - **Publish directory**: `build`
 6. Click "Deploy site." Netlify will build and deploy your app. It will also automatically redeploy every time you push a new change to your main branch.
-
----
-
-This README.md provides a solid foundation for your project's GitHub page. Let me know if you need any other adjustments!
